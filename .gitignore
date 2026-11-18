@@ -1,0 +1,5 @@
+*.exe
+settings.json
+Thumbs.db
+Desktop.ini
+.DS_Store
